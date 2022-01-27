@@ -41,5 +41,5 @@ The positions of this 3 x 3 board is same as the **keypad on the right side of y
 # *Author*:
 - [ItzDemonVG](https://github.com/ItzDemonVG)
 - [Khosraw]  (https://github.com/Khosraw)
-- [Github](https://github.com/Khosraw)
-- [LinkedIn](Unknown)
+- [Github]   (https://github.com/Khosraw)
+- [LinkedIn]  (Unknown)
